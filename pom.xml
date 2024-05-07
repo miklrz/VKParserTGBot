@@ -42,6 +42,18 @@
             <version>1.17.2</version>
         </dependency>
 
+<!--        vk api https://dev.vk.com/ru/sdk/java-->
+        <dependency>
+            <groupId>com.vk.api</groupId>
+            <artifactId>sdk</artifactId>
+            <version>1.0.15</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-jdk14</artifactId>
+            <version>1.7.26</version>
+        </dependency>
+
     </dependencies>
 
     <build>

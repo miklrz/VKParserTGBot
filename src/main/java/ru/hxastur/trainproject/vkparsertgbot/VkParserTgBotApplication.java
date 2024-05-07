@@ -10,7 +10,7 @@ public class VkParserTgBotApplication {
 
     public static void main(String[] args) {
         VkParser parser = new VkParser();
-        parser.parse("https://vk.com/dom.s.istoriey?w=wall-218288243_258");
+        parser.parse("https://vk.com/dom.s.istoriey");
     }
 
 
