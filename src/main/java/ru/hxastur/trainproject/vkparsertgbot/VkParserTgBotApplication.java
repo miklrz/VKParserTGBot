@@ -8,9 +8,9 @@ import java.util.Scanner;
 @SpringBootApplication
 public class VkParserTgBotApplication {
 
-    public static void main(String[] args) {
-        VkParser parser = new VkParser();
-    }
+//    public static void main(String[] args) {
+//        VkParser parser = new VkParser();
+//    }
 
 
 }
